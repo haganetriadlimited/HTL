@@ -1,0 +1,7 @@
+{
+  "name": "Hagane Triad Limited",
+  "description": "Pioneering Excellence in Energy and Commodities. A premium corporate platform for multi-commodity trading and energy infrastructure.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
